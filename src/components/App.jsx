@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <>Vite template</>;
+  return <>My own vite template</>;
 }
 
 export default App;
