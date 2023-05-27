@@ -27,7 +27,8 @@
     "react-router-dom": "^6.11.2",
     "redux-persist": "^6.0.0",
     "sort-by": "^1.2.0",
-    "styled-components": "^5.3.10"
+    "styled-components": "^5.3.10",
+    "vite-jsconfig-paths": "^2.0.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
